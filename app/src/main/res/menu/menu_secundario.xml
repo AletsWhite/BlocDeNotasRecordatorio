@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuGaleria"
+        android:title="@string/menu_2" />
+    <item
+        android:id="@+id/menuGrabar"
+        android:title="@string/menu_Grabar" />
+    <item
+        android:id="@+id/videoGaleria"
+        android:title="@string/menu_VideoGaleria" />
+</menu>

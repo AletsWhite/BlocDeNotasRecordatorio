@@ -1,0 +1,20 @@
+<resources>
+    <string name="encabezado">BlocdeNotasRecordatorio</string>
+    <string name="hint_nota">Titulo:</string>
+    <string name="hint_titulo">Subtitulo:</string>
+    <string name="hint_contenido">Cotenido:</string>
+    <string name="btn_guarda">Guardar registro</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+    <string name="btn_camara">Tomar foto</string>
+    <string name="rb_recordatorio">Recordatorio</string>
+    <string name="rb_nota">Nota</string>
+    <string name="changed_to">Notificacion cambiada a las%s</string>
+    <string name="time_selected_is">La hora seleccionada es:</string>
+    <string name="change_time">Cambia la hora</string>
+    <string name="select_time">Selecciona la hora</string>
+    <string name="new_notification">Tienes un pendiente a la de ya</string>
+    <string name="new_foto">Seleccionar foto</string>
+    <string name="menu_2">Foto de galeria</string>
+    <string name="menu_Grabar">Grabar video</string>
+    <string name="menu_VideoGaleria">Tomar video galeria</string>
+</resources>
